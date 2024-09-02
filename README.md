@@ -1,2 +1,2 @@
 # Java
-Repositório voltado para minha evolução pessoal na linguagem Java.
+Repositório voltado para mostrar como funciona o encapsulamento em Java.
